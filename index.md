@@ -13,7 +13,6 @@
 
 <ul>
     <li>Support or Contact E-mail：AppDevspace@outlook.com
-</ul>
 
 ### Thank you！
 

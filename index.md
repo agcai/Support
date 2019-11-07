@@ -14,7 +14,6 @@
 
 <ul>
     <li>E-mail：AppDevspace@outlook.com</li>
-<ul>
-    
+</ul>
 
-## App Support
+### Thanks.

@@ -4,7 +4,7 @@
     <li>Application Technical Support</li>
     <li>Application Bug Feedback</li>
     <li>Application design and system consulting</li>
-    <li>Application Development and Application market audit Service</li>
+    <li>Application Development and Application Store Review Service</li>
     <li>Application Store Optimization Service</li>
     <li>Application Product Promotion Operation Service</li>
 </ul>

@@ -13,6 +13,8 @@
 #### Support or Contact
 
 <ul>
+    <li>WeChat：AndyLee_US</li>
+    <li>Telegram：AndyLeeCN</li>
     <li>E-mail：AppDevspace@outlook.com</li>
 </ul>
 

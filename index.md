@@ -1,4 +1,4 @@
-## App Support
+## Support
 
 <ul>
     <li>Application Technical Support</li>
